@@ -8,7 +8,7 @@ function generateLogo(userInput) {
       
       <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
       <rect width="150" height="150" x='75' y='65' fill="${shapeColor}" />
-      <text x="150" y="125" text-anchor="middle" dominant-baseline="middle" font-size="48" fill="${textColor}">
+      <text x="150" y="140" text-anchor="middle" dominant-baseline="middle" font-size="48" fill="${textColor}">
           ${text}
       </text>
       </svg>

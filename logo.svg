@@ -1,8 +1,9 @@
 
+      
       <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-      <polygon points="150, 18 244, 182 56, 182" fill="navy" />
-      <text x="150" y="150" font-size="60" text-anchor="middle" fill="red">
-      VER
-    </text>
-  </svg>
-  
+      <rect width="150" height="150" x='75' y='65' fill="navy" />
+      <text x="150" y="140" text-anchor="middle" dominant-baseline="middle" font-size="48" fill="red">
+          VER
+      </text>
+      </svg>
+        
